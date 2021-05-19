@@ -1,0 +1,117 @@
+h2{
+  color: white;
+  text-align: center;
+  font-family:sans-serif;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+}
+div{
+width: 180px;
+height: 35px;
+background: yellow;
+border-radius: 3px;
+text-align: center;
+color: black;
+padding-top: 10px;
+font-family:sans-serif;
+}
+.dogg{
+  width: 180px;
+  height: 35px;
+  background: yellow;
+  border-radius: 3px;
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  font-family:sans-serif;
+  margin: auto;
+}
+.fishh{
+  width: 180px;
+  height: 35px;
+  background: yellow;
+  border-radius: 3px;
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  font-family:sans-serif;
+  margin: auto;
+}
+.container{
+  width: 900px;
+  height: 700px;
+  background: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+  margin: 0 auto;
+ font-family:sans-serif;
+ display: flex;
+ align-items: center;
+
+}
+.cat{
+  width: 180px;
+  height: 440px;
+  background: green;
+  margin: 80px 0 0 50px;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.2);
+    font-family:sans-serif;
+}
+.text{
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.items{
+  list-style-type: none;
+  text-align: center;
+  padding-left: 0;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.nomoney{
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 3em;
+}
+.buttom{
+  width: 150px;
+  height: 30px;
+  background: yellow;
+  text-align: center;
+  font-weight: 300;
+  color: black;
+}
+.dog{
+  width: 230px;
+  height: 550px;
+  background: green;
+  margin: 30px 0 0 50px;
+  background-color: rgba(255,255,255,0.2);
+}
+.fish{
+  width: 230px;
+  height: 420px;
+  background: green;
+  margin: 90px 0 0 50px;
+  background-color: rgba(255,255,255,0.2);
+}
+
+
+
+
+
+
+
+
+
+/*
+font: sans-serif
+background: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+border-bottom: 1px solid rgba(0,0,0,0.1);
+text-shadow:3px 3px 0 rgba(0,0,0,0.1);
+background-color: rgba(255,255,255,0.2);
+ */
